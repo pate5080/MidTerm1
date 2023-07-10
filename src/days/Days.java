@@ -9,12 +9,13 @@ import java.util.Scanner;
 /**This class takes String input from user 
  * and calls method  to print the 
  * name of the day.
- * if the input is not given in String, 
- * program will accept and produce wrong results. 
- * change the code to use enums which avoids String input 
- * then print the week day names. 
+ * input is now given in integers 
+ * program will accept only integer values and produce correct answers. 
+ * changed the program to enum now. 
  *
  * @author sivagamasrinivasan
+ * @modifier pate5080
+ * date: July 10, 2023
  */
 public class Days {
     
